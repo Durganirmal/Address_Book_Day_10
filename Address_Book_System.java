@@ -4,7 +4,6 @@ public class Address_Book_System {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome to Address Book Program !!");
-		System.out.println("Welcome to Address Book Program !!");
 		contactDetails newContact = new contactDetails();
         newContact.setFirstName("Durga \n");
         newContact.setLastName("Nirmal \n");
